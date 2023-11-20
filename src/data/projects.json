@@ -1,0 +1,103 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "projects/1.png",
+            "category": "Business",
+            "title": "Análises para alta diretoria",
+            "tags": ["Sheets", "Power Point", "Dataviz"],
+            "code_link": "",
+            "description": "<p>Estruturação de análises para o Board de investidores e Diretoria Executiva.</p>"
+        },
+        {
+            "id": 2,
+            "image": "projects/2.png",
+            "category": "Business",
+            "title": "Agendas táticas e estratégicas",
+            "tags": ["Sheets", "Power Point", "Dataviz"],
+            "code_link": "",
+            "description": "<p>Agendas táticas e estratégicas com as áreas de Revenue (Pré Vendas, Vendas, Marketing).</p>"
+        },
+        {
+            "id": 3,
+            "image": "projects/3.png",
+            "category": "Business",
+            "title": "Definição de ICP para os times de pré vendas e vendas",
+            "tags": ["Sheets", "Power Point", "Dataviz"],
+            "code_link": "",
+            "description": "<p>Utilização de dados para realizar análises sobre novas iniciativas, estratégias e entregas da área comercial. Definição do ICP para o time de pré vendas através da análise do histórico de dados de prospecção, ativação e vendas.</p>"
+        },
+        {
+            "id": 4,
+            "image": "projects/4.png",
+            "category": "Business",
+            "title": "Definição de estratégia de segmentação de carteira de vendas",
+            "tags": ["Sheets", "Power Point", "Dataviz"],
+            "code_link": "",
+            "description": "<p>Estruturação da estratégia de segmentação da equipe de Enterprise Sales da Flash. Estudo foi feito através da manipulação de dados, scoring de atributos e análise da base interna.</p>"
+        },
+        {
+            "id": 5,
+            "image": "projects/5.png",
+            "category": "Business",
+            "title": "Estruturação da lógica de premiação de vendas",
+            "tags": ["Sheets", "Power Point", "Dataviz", "Finance"],
+            "code_link": "",
+            "description": "<p>Estruturação da lógica da premiação, junto com análises adicionais (breakeven, unit economics, ativação das empresas e impacto no CAC), de toda a premiação de vendas do time de Enterprise Sales e de Flash People.</p>"
+        },
+        {
+            "id": 6,
+            "image": "projects/6.png",
+            "category": "Business",
+            "title": "Definição de metas e alavancas de pré vendas e vendas",
+            "tags": ["Sheets", "Power Point", "Dataviz", "Finance"],
+            "code_link": "",
+            "description": "<p>Identificamos as principais alavancas e gaps no processo comercial, através da criação de metas de SQLs e MQLs. Essas análises forneceram clareza sobre os impactos na geração de receita para todas as áreas de Growth, o que possibilitou a criação posterior de iniciativas para alavancar a assinatura de contratos.</p>"
+        },
+        {
+            "id": 7,
+            "image": "projects/7.png",
+            "category": "Tech",
+            "title": "Webscraping de CNPJs",
+            "tags": ["Python", "Web Scraping", "Pandas"],
+            "code_link": "https://github.com/guilasinskas/cnpj-scraping",
+            "description": "<p>Automação de um processo de extração de CNPJ de empresas pelo nome. Antes, o que o time levava mais de 1 dia, em casos extremos, para pesquisar cnpj a cnpj no Google, foi automatizado para realizar o trabalho em no máximo 5 minutos.</p>"
+        },
+        {
+            "id": 8,
+            "image": "projects/8.png",
+            "category": "Tech",
+            "title": "Automação em Python",
+            "tags": ["Python", "Web Scraping", "Pandas", "SQL", "API"],
+            "code_link": "",
+            "description": "<p>Automação de todo o processo de Inteligência Comercial, desde a criação de listas de prospecção, até o enriquecimento e manipulação de dados. Feito com Python, SQL e Google Sheets. O que antes levava quase uma semana para ser feito, passou a ser feito em uma hora.</p>"
+        },
+        {
+            "id": 9,
+            "image": "projects/10.png",
+            "category": "Business",
+            "title": "Criação de dashboards",
+            "tags": ["DataViz"],
+            "code_link": "",
+            "description": "<p>Criação de painéis e relatórios para comunicar regularmente os resultados e monitoramento das principais métricas para toda a área de receita: desde os vendedores até o CRO.</p>"
+        },
+        {
+            "id": 10,
+            "image": "projects/11.png",
+            "category": "Tech | Business",
+            "title": "Criação de relatórios automatizados dentro do Databricks e Metabase",
+            "tags": ["Pyspark", "Python", "Databricks", "SQL", "DataViz", "Metabase", "AWS"],
+            "code_link": "",
+            "description": "<p>Através do Databricks e do acesso ao datalake, foi feita a criação de relatórios automatizados e análises utilizando os DataFrames do PySpark e a manipulação de dados dentro dos notebooks. Dentro do Metabase o processo foi feito com SQL!</p>"
+        },
+        {
+            "id": 11,
+            "image": "projects/17.png",
+            "category": "Tech",
+            "title": "Modelo preeditivo de churn",
+            "tags": ["Python", "ML", "scikit-learn", "Pandas", "DataViz"],
+            "code_link": "https://github.com/guilasinskas/trabalho-final-de-graduacao",
+            "description": "<p>A partir de dados públicos de churn, foram aplicadas técnicas de aprendizado de máquina supervisionado para extrair padrões de abandono de clientes.</p>"
+        }
+    ]
+}

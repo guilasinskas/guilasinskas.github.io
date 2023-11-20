@@ -1,0 +1,46 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "link": "#",
+            "name": "Excel",
+            "image": "images/excel.png"
+        },
+        {
+            "id": 2,
+            "link": "#",
+            "name": "Python",
+            "image": "images/python.png"
+        },
+        {
+            "id": 3,
+            "link": "#",
+            "name": "SQL",
+            "image": "images/sql.png"
+        },
+        {
+            "id": 4,
+            "link": "#",
+            "name": "Power BI",
+            "image": "images/powerbi.jpg"
+        },
+        {
+            "id": 5,
+            "link": "#",
+            "name": "Databricks",
+            "image": "images/databricks.jpg"
+        },
+        {
+            "id": 6,
+            "link": "#",
+            "name": "Github",
+            "image": "images/github.jpg"
+        },
+        {
+            "id": 7,
+            "link": "#",
+            "name": "Power Point",
+            "image": "images/powerpoint.png"
+        }
+    ]
+}
