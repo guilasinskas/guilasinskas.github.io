@@ -52,7 +52,7 @@ let { mobileNav, loadMobileNav, toggleMobileNav } = useMobileNav();
     <!-- Mobile Nav -->
     <template v-if="loadMobileNav">
         <transition name="fade" mode="out-in">
-            <nav v-show="mobileNav.show" class="py-5 fixed bottom-0 left-0 right-0 bg-slate-200/80 dark:bg-[#0B1120]/80 shadow backdrop-blur-2xl z-40 block md:hidden">
+            <nav v-show="mobileNav.show" class="py-5 fixed bottom-0 left-0 right-0 bg-slate-200/80 dark:bg-[#0d0c04]/80 shadow backdrop-blur-2xl z-40 block md:hidden">
                 <ul v-scroll-spy-active="{ selector: 'li a.menu-link', class: 'active-mobile-link' }" class="grid grid-cols-4 gap-6 px-5">
                     <li class="flex justify-center items-center">
                         <router-link to="#home" class="menu-link">
