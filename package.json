@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vueuse/motion": "^2.0.0",
+    "tailwind": "^4.0.0",
     "typed.js": "^2.0.16",
     "vue": "^3.3.8",
     "vue-router": "^4.2.4",
