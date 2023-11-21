@@ -1,11 +1,13 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://guilasinskas.github.io/guilasinskas.github.io/",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite --force",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist -b main -t true -r 'git@github.com:guilasinskas/guilasinskas.github.io.git'"
   },
   "dependencies": {
     "@vueuse/motion": "^2.0.0",
